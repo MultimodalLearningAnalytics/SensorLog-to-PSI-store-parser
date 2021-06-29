@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "csv-to-psi/1.0.0": {
+        "dependencies": {
+          "Microsoft.Psi.Runtime": "0.15.49.1-beta"
+        },
+        "runtime": {
+          "csv-to-psi.dll": {}
+        }
+      },
+      "Microsoft.CSharp/4.7.0": {},
+      "Microsoft.Psi.Runtime/0.15.49.1-beta": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0",
+          "System.Collections.Immutable": "1.7.0",
+          "System.Numerics.Vectors": "4.5.0",
+          "System.Reflection.Emit.ILGeneration": "4.7.0",
+          "System.Reflection.Emit.Lightweight": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Psi.IL.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "lib/netstandard2.0/Microsoft.Psi.dll": {
+            "assemblyVersion": "0.15.49.1",
+            "fileVersion": "0.15.49.1"
+          }
+        }
+      },
+      "System.Collections.Immutable/1.7.0": {},
+      "System.Numerics.Vectors/4.5.0": {},
+      "System.Reflection.Emit.ILGeneration/4.7.0": {},
+      "System.Reflection.Emit.Lightweight/4.7.0": {}
+    }
+  },
+  "libraries": {
+    "csv-to-psi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
+    },
+    "Microsoft.Psi.Runtime/0.15.49.1-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Juk6KW4F9IHRpiXe1wPFcoI2MNlo1ixUcoi0sibCnD2Q/u2pKn/ffMFfhJfBg8ganlb79G8buyefF6bLFGqHAQ==",
+      "path": "microsoft.psi.runtime/0.15.49.1-beta",
+      "hashPath": "microsoft.psi.runtime.0.15.49.1-beta.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RVSM6wZUo6L2y6P3vN6gjUtyJ2IF2RVtrepF3J7nrDKfFQd5u/SnSUFclchYQis8/k5scHy9E+fVeKVQLnnkzw==",
+      "path": "system.collections.immutable/1.7.0",
+      "hashPath": "system.collections.immutable.1.7.0.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit.ILGeneration/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AucBYo3DSI0IDxdUjKksBcQJXPHyoPyrCXYURW1WDsLI4M65Ar/goSHjdnHOAY9MiYDNKqDlIgaYm+zL2hA1KA==",
+      "path": "system.reflection.emit.ilgeneration/4.7.0",
+      "hashPath": "system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit.Lightweight/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a4OLB4IITxAXJeV74MDx49Oq2+PsF6Sml54XAFv+2RyWwtDBcabzoxiiJRhdhx+gaohLh4hEGCLQyBozXoQPqA==",
+      "path": "system.reflection.emit.lightweight/4.7.0",
+      "hashPath": "system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\obj\Debug\netcoreapp3.1\csv-to-psi.csprojAssemblyReference.cache
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\obj\Debug\netcoreapp3.1\csv-to-psi.AssemblyInfoInputs.cache
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\obj\Debug\netcoreapp3.1\csv-to-psi.AssemblyInfo.cs
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\obj\Debug\netcoreapp3.1\csv-to-psi.csproj.CoreCompileInputs.cache
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\bin\Debug\netcoreapp3.1\csv-to-psi.exe
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\bin\Debug\netcoreapp3.1\csv-to-psi.deps.json
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\bin\Debug\netcoreapp3.1\csv-to-psi.runtimeconfig.json
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\bin\Debug\netcoreapp3.1\csv-to-psi.runtimeconfig.dev.json
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\bin\Debug\netcoreapp3.1\csv-to-psi.dll
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\bin\Debug\netcoreapp3.1\csv-to-psi.pdb
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\bin\Debug\netcoreapp3.1\Microsoft.Psi.IL.dll
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\bin\Debug\netcoreapp3.1\Microsoft.Psi.dll
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\obj\Debug\netcoreapp3.1\csv-to-psi.csproj.CopyComplete
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\obj\Debug\netcoreapp3.1\csv-to-psi.dll
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\obj\Debug\netcoreapp3.1\csv-to-psi.pdb
+C:\Users\giuse\source\repos\csv-to-psi\csv-to-psi\obj\Debug\netcoreapp3.1\csv-to-psi.genruntimeconfig.cache
